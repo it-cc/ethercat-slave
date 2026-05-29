@@ -1,0 +1,11 @@
+.\objects\apm32f407\apm32f4xx_cryp_des.o: ..\..\..\..\..\..\Libraries\APM32F4xx_StdPeriphDriver\src\apm32f4xx_cryp_des.c
+.\objects\apm32f407\apm32f4xx_cryp_des.o: ..\..\..\..\..\..\Libraries\APM32F4xx_StdPeriphDriver\inc\apm32f4xx_cryp.h
+.\objects\apm32f407\apm32f4xx_cryp_des.o: ..\..\..\..\..\..\Libraries\Device\Geehy\APM32F4xx\Include\apm32f4xx.h
+.\objects\apm32f407\apm32f4xx_cryp_des.o: ..\..\..\..\..\..\Libraries\Device\Geehy\APM32F4xx\Include\apm32f407xx.h
+.\objects\apm32f407\apm32f4xx_cryp_des.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
+.\objects\apm32f407\apm32f4xx_cryp_des.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\apm32f407\apm32f4xx_cryp_des.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\cmsis_version.h
+.\objects\apm32f407\apm32f4xx_cryp_des.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\cmsis_compiler.h
+.\objects\apm32f407\apm32f4xx_cryp_des.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\cmsis_armcc.h
+.\objects\apm32f407\apm32f4xx_cryp_des.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\mpu_armv7.h
+.\objects\apm32f407\apm32f4xx_cryp_des.o: ..\..\..\..\..\..\Libraries\Device\Geehy\APM32F4xx\Include\system_apm32f4xx.h

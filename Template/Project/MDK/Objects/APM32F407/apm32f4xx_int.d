@@ -1,0 +1,12 @@
+.\objects\apm32f407\apm32f4xx_int.o: ..\..\Source\apm32f4xx_int.c
+.\objects\apm32f407\apm32f4xx_int.o: ..\..\Include\main.h
+.\objects\apm32f407\apm32f4xx_int.o: ..\..\..\..\..\..\Libraries\Device\Geehy\APM32F4xx\Include\apm32f4xx.h
+.\objects\apm32f407\apm32f4xx_int.o: ..\..\..\..\..\..\Libraries\Device\Geehy\APM32F4xx\Include\apm32f407xx.h
+.\objects\apm32f407\apm32f4xx_int.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
+.\objects\apm32f407\apm32f4xx_int.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\apm32f407\apm32f4xx_int.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\cmsis_version.h
+.\objects\apm32f407\apm32f4xx_int.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\cmsis_compiler.h
+.\objects\apm32f407\apm32f4xx_int.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\cmsis_armcc.h
+.\objects\apm32f407\apm32f4xx_int.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\mpu_armv7.h
+.\objects\apm32f407\apm32f4xx_int.o: ..\..\..\..\..\..\Libraries\Device\Geehy\APM32F4xx\Include\system_apm32f4xx.h
+.\objects\apm32f407\apm32f4xx_int.o: ..\..\Include\apm32f4xx_int.h
