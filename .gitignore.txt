@@ -1,0 +1,21 @@
+# Keil 生成文件（不需要上传）
+*.uvguix.*
+*.uvoptx
+*.scvd
+*.uvprojx.bak
+Listings/
+Objects/
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.map
+*.bak
+*.axf
+*.hex
+
+# IDE 临时文件
+*.user
+*.Project
+*.uvmpw

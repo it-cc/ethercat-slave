@@ -1,0 +1,14 @@
+.\objects\apm32f407\ecat_slv.o: SOES\src\ecat_slv.c
+.\objects\apm32f407\ecat_slv.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\apm32f407\ecat_slv.o: .\SOES\inc\esc.h
+.\objects\apm32f407\ecat_slv.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\apm32f407\ecat_slv.o: .\SOES\inc\cc.h
+.\objects\apm32f407\ecat_slv.o: D:\keil5\ARM\ARMCC\Bin\..\include\assert.h
+.\objects\apm32f407\ecat_slv.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\apm32f407\ecat_slv.o: D:\keil5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\apm32f407\ecat_slv.o: .\SOES\inc\esc_coe.h
+.\objects\apm32f407\ecat_slv.o: .\SOES\inc\options.h
+.\objects\apm32f407\ecat_slv.o: .\SOES\inc\ecat_options.h
+.\objects\apm32f407\ecat_slv.o: .\SOES\inc\esc_foe.h
+.\objects\apm32f407\ecat_slv.o: .\SOES\inc\esc_eoe.h
+.\objects\apm32f407\ecat_slv.o: .\SOES\inc\ecat_slv.h
