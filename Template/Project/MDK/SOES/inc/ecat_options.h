@@ -28,12 +28,12 @@
 #define MBX1_smc         0x22   /* SM 控制：输入邮箱 */
 
 /* SM2 - 过程数据输出 (主站 -> 从站) */
-#define SM2_sma          0x1100
+#define SM2_sma          0x1200
 #define SM2_smc          0x24   /* SM 控制：输出过程数据 */
 #define SM2_act          1      /* 激活 */
 
 /* SM3 - 过程数据输入 (从站 -> 主站) */
-#define SM3_sma          0x1180
+#define SM3_sma          0x1280
 #define SM3_smc          0x20   /* SM 控制：输入过程数据 */
 #define SM3_act          1      /* 激活 */
 

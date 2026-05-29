@@ -28,6 +28,7 @@
 #include "Board.h"
 #include "apm32f4xx.h"
 #include "lan9252.h"
+#include "application.h"
 
 /* Private includes *******************************************************/
 
@@ -54,7 +55,7 @@ int main(void)
 {
     /* 系统时钟配置 */
     // SystemClock_Config();
-    
+
     if (lan9252_init() == 0) {
         /* 初始化成功 */
         lan9252_irq_config();
@@ -62,8 +63,12 @@ int main(void)
         /* 初始化失败，死循环或报错 */
         while (1);
     }
-    
+
+    /* 初始化应用层 + SOES 协议栈 */
+    app_init();
+
+    /* 主循环：周期性轮询协议栈 */
     while (1) {
-        /* 主循环 */
+        ecat_slv();
     }
 }
