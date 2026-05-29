@@ -1,0 +1,11 @@
+.\objects\apm32f407\board_delay.o: User\board_delay.c
+.\objects\apm32f407\board_delay.o: User\board_delay.h
+.\objects\apm32f407\board_delay.o: ..\..\..\..\..\..\Libraries\Device\Geehy\APM32F4xx\Include\apm32f4xx.h
+.\objects\apm32f407\board_delay.o: ..\..\..\..\..\..\Libraries\Device\Geehy\APM32F4xx\Include\apm32f407xx.h
+.\objects\apm32f407\board_delay.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
+.\objects\apm32f407\board_delay.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\apm32f407\board_delay.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\cmsis_version.h
+.\objects\apm32f407\board_delay.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\cmsis_compiler.h
+.\objects\apm32f407\board_delay.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\cmsis_armcc.h
+.\objects\apm32f407\board_delay.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\mpu_armv7.h
+.\objects\apm32f407\board_delay.o: ..\..\..\..\..\..\Libraries\Device\Geehy\APM32F4xx\Include\system_apm32f4xx.h

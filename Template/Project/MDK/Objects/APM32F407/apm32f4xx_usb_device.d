@@ -1,0 +1,14 @@
+.\objects\apm32f407\apm32f4xx_usb_device.o: ..\..\..\..\..\..\Libraries\APM32F4xx_StdPeriphDriver\src\apm32f4xx_usb_device.c
+.\objects\apm32f407\apm32f4xx_usb_device.o: ..\..\..\..\..\..\Libraries\APM32F4xx_StdPeriphDriver\inc\apm32f4xx_usb_device.h
+.\objects\apm32f407\apm32f4xx_usb_device.o: ..\..\..\..\..\..\Libraries\Device\Geehy\APM32F4xx\Include\apm32f4xx.h
+.\objects\apm32f407\apm32f4xx_usb_device.o: ..\..\..\..\..\..\Libraries\Device\Geehy\APM32F4xx\Include\apm32f407xx.h
+.\objects\apm32f407\apm32f4xx_usb_device.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
+.\objects\apm32f407\apm32f4xx_usb_device.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\apm32f407\apm32f4xx_usb_device.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\cmsis_version.h
+.\objects\apm32f407\apm32f4xx_usb_device.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\cmsis_compiler.h
+.\objects\apm32f407\apm32f4xx_usb_device.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\cmsis_armcc.h
+.\objects\apm32f407\apm32f4xx_usb_device.o: ..\..\..\..\..\..\Libraries\CMSIS\Include\mpu_armv7.h
+.\objects\apm32f407\apm32f4xx_usb_device.o: ..\..\..\..\..\..\Libraries\Device\Geehy\APM32F4xx\Include\system_apm32f4xx.h
+.\objects\apm32f407\apm32f4xx_usb_device.o: ..\..\..\..\..\..\Libraries\APM32F4xx_StdPeriphDriver\inc\apm32f4xx_usb.h
+.\objects\apm32f407\apm32f4xx_usb_device.o: ..\..\..\..\..\..\Libraries\APM32F4xx_StdPeriphDriver\inc\apm32f4xx_eint.h
+.\objects\apm32f407\apm32f4xx_usb_device.o: ..\..\..\..\..\..\Libraries\APM32F4xx_StdPeriphDriver\inc\apm32f4xx_rcm.h

@@ -1,0 +1,13 @@
+.\objects\apm32f407\application.o: SOES\src\application.c
+.\objects\apm32f407\application.o: .\SOES\inc\esc.h
+.\objects\apm32f407\application.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\apm32f407\application.o: .\SOES\inc\cc.h
+.\objects\apm32f407\application.o: D:\keil5\ARM\ARMCC\Bin\..\include\assert.h
+.\objects\apm32f407\application.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\apm32f407\application.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\apm32f407\application.o: D:\keil5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\apm32f407\application.o: .\SOES\inc\esc_coe.h
+.\objects\apm32f407\application.o: .\SOES\inc\options.h
+.\objects\apm32f407\application.o: .\SOES\inc\ecat_options.h
+.\objects\apm32f407\application.o: .\SOES\inc\ecat_slv.h
+.\objects\apm32f407\application.o: .\SOES\inc\application.h
